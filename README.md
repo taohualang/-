@@ -1,12 +1,12 @@
 # 宋德龙 项目工作地址
 
-1.B2B后台管理系统
+1.B2B 后台管理系统
 
 ```
 http://front.oceania-inc.com/
 ```
 
-2.Sam站(斯坦福先进材料网站)
+2.Sam 站(斯坦福先进材料网站)
 
 ```
 https://www.samaterials.com/
@@ -69,7 +69,7 @@ https://www.adamantvalves.com/
 12.Electronics(半导体电子材料站)
 
 ```
-https://www.adamantvalves.com/
+https://www.stanfordelec.com/
 ```
 
 13.靶材站
@@ -77,11 +77,13 @@ https://www.adamantvalves.com/
 ```
 https://www.sputtertargets.net/
 ```
+
 14.化学站
 
 ```
 https://www.stanfordchem.com/
 ```
+
 15.等等其他品牌站点
 
 16.Oceania SSO 管理系统
@@ -90,7 +92,7 @@ https://www.stanfordchem.com/
 https://sso.oceania-sh.com/login
 ```
 
-17.新CRM客户关系管理系统
+17.新 CRM 客户关系管理系统
 
 ```
 https://crm.oceania-sh.com/ajlvSbkdMo.php
