@@ -72,84 +72,94 @@ https://www.adamantvalves.com/
 https://www.adamantvalves.com/
 ```
 
-13.靶材站等等其他站点
+13.靶材站
 
-14.Oceania SSO 管理系统
+```
+https://www.sputtertargets.net/
+```
+14.化学站
+
+```
+https://www.stanfordchem.com/
+```
+15.等等其他品牌站点
+
+16.Oceania SSO 管理系统
 
 ```
 https://sso.oceania-sh.com/login
 ```
 
-15.新CRM客户关系管理系统
+17.新CRM客户关系管理系统
 
 ```
 https://crm.oceania-sh.com/ajlvSbkdMo.php
 ```
 
-16.轻松英语(vue2 网站)
+18.轻松英语(vue2 网站)
 
 ```
 https://17english.com/
 ```
 
-17.智能考试服务平台(vue2 后台)
+19.智能考试服务平台(vue2 后台)
 
 ```
 https://lyadmin.lyced.com/
 ```
 
-18.轻松教研助手(微信小程序)
+20.轻松教研助手(微信小程序)
 
 ```
 微信搜索：轻松教研助手
 ```
 
-19.晶荧教育(react+Gatsby 网站)
+21.晶荧教育(react+Gatsby 网站)
 
 ```
 http://17xueyou.com/ 已换地址
 ```
 
-20.上海市初中学业水平考试系统(vue3 考试系统)
+22.上海市初中学业水平考试系统(vue3 考试系统)
 
 ```
 https://testonstu.lyced.com/
 ```
 
-21.壹品易购商场(\(h5/安卓)
+23.壹品易购商场(\(h5/安卓)
 
-22.智慧物业管理平台(vue3 后台)
+24.智慧物业管理平台(vue3 后台)
 
 ```
 http://ch.tpm.qforces.com/
 ```
 
-23.中国南方电网(vue3+ts)
+25.中国南方电网(vue3+ts)
 
 ```
 保密
 ```
 
-24.博鳌医学后台管理系统(React 后台)
+26.博鳌医学后台管理系统(React 后台)
 
 ```
 http://www.boaocjyy.com/manage.do
 ```
 
-25.博鳌医学(app)
+27.博鳌医学(app)
 
 ```
 各大应用商品搜索：博鳌医学
 ```
 
-29.上海电气综合能源智慧管理平台(vue2 后台)
+28.上海电气综合能源智慧管理平台(vue2 后台)
 
 ```
 https://platform.des-pso.com/
 ```
 
-27.上海电气工单管理(uniapp)
+29.上海电气工单管理(uniapp)
 
-28.日方远景电池
+30.日方远景电池
 
 等等其他项目(记不清了)
