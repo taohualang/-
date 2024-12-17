@@ -122,40 +122,38 @@ http://17xueyou.com/ 已换地址
 https://testonstu.lyced.com/
 ```
 
-22.壹品易购商场(\(h5/安卓)
-
-23.智慧物业管理平台(vue3 后台)
+22.智慧物业管理平台(vue3 后台)
 
 ```
 http://ch.tpm.qforces.com/
 ```
 
-24.中国南方电网(vue3+ts)
+23.中国南方电网(vue3+ts)
 
 ```
 保密
 ```
 
-25.博鳌医学后台管理系统(React 后台)
+24.博鳌医学后台管理系统(React 后台)
 
 ```
 http://www.boaocjyy.com/manage.do
 ```
 
-26.博鳌医学(app)
+25.博鳌医学(app)
 
 ```
 各大应用商品搜索：博鳌医学
 ```
 
-27.上海电气综合能源智慧管理平台(vue2 后台)
+26.上海电气综合能源智慧管理平台(vue2 后台)
 
 ```
 https://platform.des-pso.com/
 ```
 
-28.上海电气工单管理(uniapp)
+27.上海电气工单管理(uniapp)
 
-29.日方远景电池
+28.日方远景电池
 
 等等其他项目(记不清了)
